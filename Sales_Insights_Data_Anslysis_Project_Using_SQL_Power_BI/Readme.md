@@ -7,7 +7,7 @@ This project I learn from code basics youtube channel.
 AtliQ Hardware is a company with multiple branches across India that provides computer hardware & peripheral components to its customers. The company's sales director is having a lot of trouble comprehending how the business is doing and what challenges it is currently experiencing because sales are not what was anticipated and are really falling progressively. And if he phones the regional managers to enquire about the state of the market and sales, it is clear that this is frustrating because, by nature, individuals are uncomfortable reading data from excel files.
 
 <h3>Solution</h3> 
-Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for converting the data into visual representation to make data driven decisions. So, he hired a team of data people to complete this task.
+The sales director of AltiQ hardware made the choice to create a PowerBI Dashboard for turning the data into a visual representation so that decisions could be made based on data. He therefore employed a group of data specialists to finish this project.
 
 <h3>SQL Queries Used</h3> 
 
