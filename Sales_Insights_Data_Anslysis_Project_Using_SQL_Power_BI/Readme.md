@@ -1,6 +1,6 @@
 <h1>Sales_Insights_Atliq_Hardwares</h1>
 
-<h1>Problem Statement</h1> 
+<h3>Problem Statement</h3> 
 Data analysis project to build power BI dashboard that can give real time sales insights.
 
 Undertook analysis of Database containing sales transactions, customer details, products and market information.
