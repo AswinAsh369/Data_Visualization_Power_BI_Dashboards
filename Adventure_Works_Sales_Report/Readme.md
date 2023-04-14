@@ -44,6 +44,8 @@ Customers by Sales and Product Category
 Customers by Sales and Product Sub-Category
 
 <h3>THE DASHBOARD</h3>
+![Screenshot (24)](https://user-images.githubusercontent.com/125251408/232171690-292f9fc9-ab6e-4bdc-b2c2-cf1d26d59fbe.png)
+
 
 
 
