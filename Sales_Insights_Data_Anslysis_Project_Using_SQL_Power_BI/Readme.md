@@ -21,7 +21,7 @@ The sales director of AltiQ hardware made the choice to create a PowerBI Dashboa
 
 <h4>Performance Insights</h4>
 
-
+![Screenshot AS_3](https://user-images.githubusercontent.com/125251408/232175299-409dc79f-f36c-41ee-be6b-1689a3b0c3e3.png)
 
 <h3>SQL Queries Used</h3> 
 
