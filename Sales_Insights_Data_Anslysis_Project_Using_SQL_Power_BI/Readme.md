@@ -9,9 +9,11 @@ AtliQ Hardware is a company with multiple branches across India that provides co
 <h3>Solution</h3> 
 The sales director of AltiQ hardware made the choice to create a PowerBI Dashboard for turning the data into a visual representation so that decisions could be made based on data. He therefore employed a group of data specialists to finish this project.
 
-<h3>THE DASHBOARD</h3> 
+<h3>THE DASHBOARD</h3>
 
+<h4>Sales Insights</h4>
 
+![Screenshot AS_1](https://user-images.githubusercontent.com/125251408/232175121-1beb0b4e-e027-4b6a-96aa-4cdd47c77b89.png)
 
 <h3>SQL Queries Used</h3> 
 
