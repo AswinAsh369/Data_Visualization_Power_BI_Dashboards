@@ -55,6 +55,8 @@ Customers by Sales and Product Sub-Category
 
 <h4>Customer Details</h4>
 
+![Screenshot (25)](https://user-images.githubusercontent.com/125251408/232172700-ce97bd76-5ba1-466b-9794-b22b4da795b7.png)
+
 
 
 
