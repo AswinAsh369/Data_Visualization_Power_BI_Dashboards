@@ -15,6 +15,14 @@ The sales director of AltiQ hardware made the choice to create a PowerBI Dashboa
 
 ![Screenshot AS_1](https://user-images.githubusercontent.com/125251408/232175121-1beb0b4e-e027-4b6a-96aa-4cdd47c77b89.png)
 
+<h4>Product Analysis</h4>
+
+![Screenshot AS_2](https://user-images.githubusercontent.com/125251408/232175200-66705fb9-d058-4969-9d70-cc0f5da99524.png)
+
+<h4>Performance Insights</h4>
+
+
+
 <h3>SQL Queries Used</h3> 
 
 1.Show all customer records.
