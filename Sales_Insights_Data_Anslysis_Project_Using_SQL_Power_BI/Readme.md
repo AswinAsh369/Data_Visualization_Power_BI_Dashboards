@@ -9,6 +9,10 @@ AtliQ Hardware is a company with multiple branches across India that provides co
 <h3>Solution</h3> 
 The sales director of AltiQ hardware made the choice to create a PowerBI Dashboard for turning the data into a visual representation so that decisions could be made based on data. He therefore employed a group of data specialists to finish this project.
 
+<h3>THE DASHBOARD</h3> 
+
+
+
 <h3>SQL Queries Used</h3> 
 
 1.Show all customer records.
@@ -47,7 +51,7 @@ The sales director of AltiQ hardware made the choice to create a PowerBI Dashboa
 
     SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020 and transactions.market_code="Mark001";
     
-<h3>THE DASHBOARD</h3> 
+
 
 
     
